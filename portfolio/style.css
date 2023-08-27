@@ -273,3 +273,7 @@ footer {
     display: none;
   }
 }
+#footer p {
+  display: block;
+  margin: 5px 0; /* Add some space between the lines */
+}
