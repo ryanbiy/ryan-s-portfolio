@@ -132,7 +132,7 @@ header {
 }
 
 .main-text {
-  padding: 30px;
+  padding: 60px;
   margin-bottom: 60px;
 }
 
@@ -149,7 +149,7 @@ header {
 }
 
 #revenoo {
-  padding-bottom: 160px;
+  padding-bottom: 200px;
   background-image: url("images/revenoo-app.png");
   background-size: cover;
 }
@@ -161,7 +161,7 @@ header {
 }
 
 #news {
-  padding-bottom: 140px;
+  padding-bottom: 200px;
   background-image: url("images/news-app.png");
   background-size: cover;
 }
