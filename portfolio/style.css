@@ -18,12 +18,12 @@
   }
 
   p {
-    font-size: 12px;
+    font-size: 10px;
   }
 
   .main-text {
     padding: 15px;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
   }
 
   .square {
@@ -128,12 +128,12 @@ header {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  padding: 30px;
+  padding: 10px;
 }
 
 .main-text {
   padding: 30px;
-  margin-bottom: 100px;
+  margin-bottom: 60px;
 }
 
 .square {
@@ -149,7 +149,7 @@ header {
 }
 
 #revenoo {
-  padding-bottom: 200px;
+  padding-bottom: 160px;
   background-image: url("images/revenoo-app.png");
   background-size: cover;
 }
@@ -161,7 +161,7 @@ header {
 }
 
 #news {
-  padding-bottom: 200px;
+  padding-bottom: 140px;
   background-image: url("images/news-app.png");
   background-size: cover;
 }
