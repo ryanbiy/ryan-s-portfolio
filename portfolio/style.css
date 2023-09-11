@@ -6,15 +6,15 @@
   }
 
   h1 {
-    font-size: 30px;
+    font-size: 20px;
     line-height: 30px;
     margin: 20px 0;
   }
 
   h2 {
-    font-size: 30px;
-    line-height: 30px;
-    margin: 30px 0 10px 0;
+    font-size: 20px;
+    line-height: 20px;
+    margin: 20px 0 10px 0;
   }
 
   p {
@@ -22,12 +22,12 @@
   }
 
   .main-text {
-    padding: 15px;
-    margin-bottom: 20px;
+    padding: 10px;
+    margin-bottom: 10px;
   }
 
   .square {
-    height: 300px;
+    height: 2520px;
     margin-bottom: 20px;
   }
 }
